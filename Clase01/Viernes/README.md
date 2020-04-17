@@ -64,3 +64,5 @@ El abecedario en mayusculas, en minusculas, los numeros y los caracteres especia
 Sobre ellas rigen las mismas reglas que para los arreglos. No se las puede comparar entre si, se las debe cargar elemento por elemento, etc. Por suerte, para este uso particular, tenemos la libreria __string.h__ que nos da un set de funciones para trabajar con ellas.
 
 - __Ejemplo de Cadenas:__
+
+[Ejemplo](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/cadenas)
