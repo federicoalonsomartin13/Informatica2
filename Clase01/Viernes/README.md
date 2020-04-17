@@ -66,3 +66,19 @@ Sobre ellas rigen las mismas reglas que para los arreglos. No se las puede compa
 - __Ejemplo de Cadenas:__
 
 [Ejemplo](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/cadenas)
+
+## Ejercicios Propuestos
+
+### Arreglos
+
+Ejercicio 1:
+
+Hacer un programa que, utilizando vectores, cargue 10 numeros enteros ingresados por el usuario e imprima en pantalla la sumatoria de ellos.
+
+Ejercicio 2:
+
+Hacer un programa que, utilizando vectores, cargue 5 numeros inferiores a 100, ingresados por el usuario, y los imprima en forma recursiva segun orden de ingreso.
+
+Ejercicio 3:
+
+Hacer un programa, que ordene a la matriz del ejemplo de matrices por orden ascendente y descendente segun: Nombre, Codigo o Cantidad dependiendo de la elección del usuario.
