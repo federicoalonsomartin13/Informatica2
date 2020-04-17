@@ -52,9 +52,9 @@ if(a[0] == m[3][1]) // si se puede comparar dos elementos de arreglos diferentes
 
 - __Ejemplo de Matrices:__
 
-  [Ejercicio 1](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/matrices/Ejercicio1)
+  [Ejemplo 1](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/matrices/Ejercicio1)
 
-  [Ejercicio 2](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/matrices/Ejercicio2)
+  [Ejemplo 2](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/matrices/Ejercicio2)
 
 ## Cadenas
 
