@@ -69,8 +69,6 @@ Sobre ellas rigen las mismas reglas que para los arreglos. No se las puede compa
 
 ## Ejercicios Propuestos
 
-### Arreglos
-
 Ejercicio 1:
 
 Hacer un programa que, utilizando vectores, cargue 10 numeros enteros ingresados por el usuario e imprima en pantalla la sumatoria de ellos.
