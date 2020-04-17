@@ -48,6 +48,7 @@ if(a[0] == m[3][1]) // si se puede comparar dos elementos de arreglos diferentes
 
 - __Ejemplo de Vectores:__
 
+  [Ejemplo](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/vectores)
 
 - __Ejemplo de Matrices:__
 
