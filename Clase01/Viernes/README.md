@@ -54,7 +54,8 @@ if(a[0] == m[3][1]) // si se puede comparar dos elementos de arreglos diferentes
 
   [Ejemplo 1](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/matrices/Ejercicio1)
 
-  [Ejemplo 2](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/matrices/Ejercicio2)
+  [Ejemplo 2](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/matrices/Ejercicio2) - [Video-Explicación](https://youtu.be/Y1UfYJMelUU) - [Video-Resolución](https://youtu.be/xac4eQmZup8)
+
 
 ## Cadenas
 
@@ -79,4 +80,4 @@ Hacer un programa que, utilizando vectores, cargue 5 numeros inferiores a 100, i
 
 Ejercicio 3:
 
-Hacer un programa, que ordene a la matriz del ejemplo de matrices por orden ascendente y descendente segun: Nombre, Codigo o Cantidad dependiendo de la elección del usuario.
+Hacer un programa, que ordene a la matriz del ejemplo de matrices por orden ascendente y descendente segun: Nombre, Codigo o Cantidad dependiendo de la elección del usuario. [Video-Explicación](https://youtu.be/HkA7FldDdTA)
