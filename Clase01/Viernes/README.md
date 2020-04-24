@@ -48,7 +48,7 @@ if(a[0] == m[3][1]) // si se puede comparar dos elementos de arreglos diferentes
 
 - __Ejemplo de Vectores:__
 
-  [Ejemplo](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/vectores)
+  [Ejemplo Vectores](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/vectores)
 
 - __Ejemplo de Matrices:__
 
@@ -66,18 +66,18 @@ Sobre ellas rigen las mismas reglas que para los arreglos. No se las puede compa
 
 - __Ejemplo de Cadenas:__
 
-[Ejemplo](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/cadenas)
+[Ejemplo Cadenas](https://github.com/DamRCorba/Informatica2/tree/master/Clase01/Viernes/ejemplos/cadenas)
 
 ## Ejercicios Propuestos
 
 Ejercicio 1:
 
-Hacer un programa que, utilizando vectores, cargue 10 numeros enteros ingresados por el usuario e imprima en pantalla la sumatoria de ellos.
+Hacer un programa que, utilizando vectores, cargue 10 números enteros ingresados por el usuario e imprima en pantalla la sumatoria de ellos.
 
 Ejercicio 2:
 
-Hacer un programa que, utilizando vectores, cargue 5 numeros inferiores a 100, ingresados por el usuario, y los imprima en forma recursiva segun orden de ingreso.
+Hacer un programa que, utilizando vectores, cargue 5 números inferiores a 100, ingresados por el usuario, y los imprima en forma recursiva según orden de ingreso.
 
 Ejercicio 3:
 
-Hacer un programa, que ordene a la matriz del ejemplo de matrices por orden ascendente y descendente segun: Nombre, Codigo o Cantidad dependiendo de la elección del usuario. [Video-Explicación](https://youtu.be/HkA7FldDdTA)
+Hacer un programa, que ordene a la matríz del Ejemplo 2 por orden ascendente y descendente según: Nombre, Código o Cantidad dependiendo de la elección del usuario. [Video-Explicación](https://youtu.be/HkA7FldDdTA) [Video-Resolución](https://youtu.be/7KCB4mw5SWs)
