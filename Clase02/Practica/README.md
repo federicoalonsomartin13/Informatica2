@@ -150,6 +150,8 @@ __Ejercicio 4:__
 
   __Ejercicio 5:__
    En un sistema de telemetría, se tiene un bus de datos serial con 4 dispositivos. Cada uno de ellos tendrá una dirección conocida. Se pide diseñar una estructura de datos que contenga, *direccion*, *comando* y *dato* cada uno de ellos de 8 bits. Para simularlo el usuario ingresará los tres valores y el programa le imprimirá en pantalla la respuesta del dispositivo.
+    - [Video Explicación](https://www.youtube.com/watch?v=4mHLw2v21KM)
+    - [Video Resolución](https://www.youtube.com/watch?v=Ei5p7c98AbE)
 
 __Ejercicio 6:__
   Partiendo del Ejemplo 2 (*Dibujo de Caracteres*), escribir su nombre en pantalla dibujado por un dotMatrix 8x5
