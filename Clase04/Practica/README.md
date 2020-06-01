@@ -3,7 +3,6 @@
 Las *funciones* y las *macros* son conjuntos de instrucciones que realizan un tarea concreta y específica.
 
 
-
 __Función Suma__
 
 ```c
@@ -40,3 +39,5 @@ Como ejemplo de uso, les dejo una simple calculadora de suma y resta.
 - __Ejercicio 11__: Tomando el código del ejemplo de suma y resta, completar las operaciones matemáticas básicas.
 
 - __Ejercicio 12__: Hacer una calculadora de *Ley de Ohm*. El usuario deberá poder cargar el par *Corriente-Tensión* o *Corriente-Resistencia* o *Tensión-Resistencia* y el programa deberá imprimir en pantalla *Corriente, Tensión, Resistencia y Potencia*.
+[Video explicación](https://youtu.be/so-w99ZVPOg)
+[Video Resolución](https://youtu.be/_EU9mQHhocw)
