@@ -14,7 +14,7 @@ typedef struct {
 ```
 El programa tiene un control de usuarios con contraseña, con su ABM, para usarlo de ejemplo.
 
-Ejemplo: [Acceder al código de Ejemplo](https://github.com/DamRCorba/Informatica2/tree/master/Clase10/Ejemplos/usuarios)
+Ejemplo: [Acceder al código de Ejemplo](https://github.com/DamRCorba/Informatica2/tree/master/Clase10/Ejemplo/usuarios)
 
 
 ## Práctica Propuesta
