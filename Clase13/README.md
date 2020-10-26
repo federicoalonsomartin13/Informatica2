@@ -55,7 +55,7 @@ Las listas son colas ordenadas, además de la estructura de datos tradicional ti
 
     Hacer un programa que lea al archivo "contactos.dat" creado en el __Ejercicio 35__ y crear una lista, en memoria dinámica, ordenada alfabéticamente. Una vez creada la lista guardarla en un archivo de organización directa llamado "contactos_ordenados.dat" imprimiendola en pantalla.
 
-- __EJERCICIO 37__: [Ver Codigo Resuelto]([https://link](https://github.com/DamRCorba/Informatica2/tree/master/Clase13/Ejemplo/Ejercicio37.c))
+- __EJERCICIO 37__: [Ver Codigo Resuelto]([https://github.com/DamRCorba/Informatica2/tree/master/Clase13/Ejemplo/Ejercicio37.c])
 
     Existe un archivo llamado "datos.dat", de tipo binario, cuya organización es secuencial. Los datos están organizados según la siguiente estructura:   
                                                                                  
